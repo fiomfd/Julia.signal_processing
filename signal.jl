@@ -31,4 +31,4 @@ plot(x,
     legend=false)
 plot!(xticks = ([0 5000 10000;], [0, 5, 10]))
 plot!(yticks = ([-1 1;], [-1, 1]))
-savefig("discrete_time_signal.png") 
+savefig("signal.png") 
