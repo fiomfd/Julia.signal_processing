@@ -6,3 +6,4 @@ Here are some examples of Julia programs for signal processing.
 - signal_fft_shifted.jl the shifted graph of the DFT
 - signal_stft.jl the spectrogram, i.e., the discrete short-time Fourier transform
 - signal_haar.jl the multiresolution decomposition
+- *.png results
