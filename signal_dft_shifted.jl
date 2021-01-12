@@ -29,4 +29,4 @@ plot(kshift, Gshift,
     legend=false)
 plot!(xticks = ([-25 0 25;], [-6000 0 6000]))
 plot!(yticks = ([0 200 400;], [0 200 400]))
-savefig("dft_shifted.png")
+savefig("signal_dft_shifted.png")
