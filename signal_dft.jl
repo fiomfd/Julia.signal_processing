@@ -27,5 +27,5 @@ plot(G,
     legend=false)
 plot!(xticks = ([0 5000 10000;], [0, 5000, 10000]))
 plot!(yticks = ([0 200 400;], [0 200 400]))
-savefig("dft.png") 
+savefig("signal_dft.png") 
 
