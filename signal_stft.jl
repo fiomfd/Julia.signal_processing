@@ -68,7 +68,7 @@ plot(X,
     yaxis="k = 0, 1, 2, ..., M/2")
 plot!(xticks = ([0 1000 1957;], [0 1000 1957]))
 plot!(yticks = ([0 50 100;], [0 50 100]))
-savefig("spectrogram.png")
+savefig("signal_stft.png")
 
 
 
